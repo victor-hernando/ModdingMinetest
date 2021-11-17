@@ -1,0 +1,54 @@
+
+
+-------------
+  Separator
+-------------
+
+2021-11-15 17:39:05: ACTION[Main]: World at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-15 17:39:05: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:62178.
+2021-11-15 17:39:06: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-15 17:39:06: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-15 17:39:14: ACTION[Server]: singleplayer digs default:snowblock at (59,16,68)
+2021-11-15 17:39:17: ACTION[Server]: singleplayer digs default:snowblock at (59,15,68)
+2021-11-15 17:39:22: ACTION[Server]: singleplayer digs default:snowblock at (59,14,68)
+2021-11-15 17:39:23: ACTION[Server]: singleplayer digs default:snowblock at (60,15,68)
+2021-11-15 17:39:24: ACTION[Server]: singleplayer digs default:snowblock at (60,14,68)
+2021-11-15 17:39:30: ACTION[Server]: singleplayer digs default:snowblock at (61,15,68)
+2021-11-15 17:39:31: ACTION[Server]: singleplayer digs default:snowblock at (60,16,68)
+2021-11-15 17:39:32: ACTION[Server]: singleplayer digs default:snowblock at (61,16,68)
+2021-11-15 17:39:36: ACTION[Server]: singleplayer digs default:snowblock at (62,16,68)
+2021-11-15 17:39:37: ACTION[Server]: singleplayer digs default:dirt at (62,16,69)
+2021-11-15 17:39:38: ACTION[Server]: singleplayer digs default:snowblock at (62,15,68)
+2021-11-15 17:39:39: ACTION[Server]: singleplayer digs default:dirt at (62,15,69)
+2021-11-15 17:39:42: ACTION[Server]: singleplayer digs default:dirt at (62,16,70)
+2021-11-15 17:39:43: ACTION[Server]: singleplayer digs default:dirt at (62,15,70)
+2021-11-15 17:39:44: ACTION[Server]: singleplayer digs default:snowblock at (61,15,70)
+2021-11-15 17:39:46: ACTION[Server]: singleplayer digs default:snowblock at (61,16,70)
+2021-11-15 17:39:50: ACTION[Server]: singleplayer digs default:snowblock at (61,17,70)
+2021-11-15 17:39:51: ACTION[Server]: singleplayer digs default:snowblock at (60,16,70)
+2021-11-15 17:39:57: ACTION[Server]: singleplayer digs default:snowblock at (57,16,68)
+2021-11-15 17:39:59: ACTION[Server]: singleplayer digs default:snowblock at (56,16,68)
+2021-11-15 17:40:03: ACTION[Server]: singleplayer digs default:snowblock at (58,16,68)
+2021-11-15 17:40:04: ACTION[Server]: singleplayer digs default:snowblock at (58,15,68)
+2021-11-15 17:40:10: ACTION[Server]: singleplayer digs default:snowblock at (56,16,69)
+2021-11-15 17:40:14: ACTION[Server]: singleplayer places node default:snowblock at (58,17,69)
+2021-11-15 17:40:19: ACTION[Server]: singleplayer digs default:snowblock at (57,15,68)
+2021-11-15 17:40:21: ACTION[Server]: singleplayer digs default:snowblock at (58,14,68)
+2021-11-15 17:40:28: ACTION[Server]: singleplayer places node default:snowblock at (58,17,68)
+2021-11-15 17:40:28: ACTION[Server]: singleplayer places node default:snowblock at (58,16,68)
+2021-11-15 17:40:31: ACTION[Server]: singleplayer digs default:snowblock at (58,16,68)
+2021-11-15 17:40:35: ACTION[Server]: singleplayer places node default:snowblock at (59,17,68)
+2021-11-15 17:40:35: ACTION[Server]: singleplayer places node default:snowblock at (59,16,68)
+2021-11-15 17:40:37: ACTION[Server]: singleplayer digs default:snowblock at (59,16,68)
+2021-11-15 17:40:38: ACTION[Server]: singleplayer places node default:snowblock at (60,17,68)
+2021-11-15 17:40:47: ACTION[Server]: singleplayer places node default:snowblock at (57,17,68)
+2021-11-15 17:40:49: ACTION[Server]: singleplayer places node default:snowblock at (57,18,68)
+2021-11-15 17:40:50: ACTION[Server]: singleplayer digs default:snowblock at (57,17,68)
+2021-11-15 17:40:51: ACTION[Server]: singleplayer places node default:snowblock at (57,17,69)
+2021-11-15 17:40:52: ACTION[Server]: singleplayer places node default:snowblock at (57,17,67)
+2021-11-15 17:41:06: ACTION[Server]: singleplayer places node default:snowblock at (58,17,70)
+2021-11-15 17:41:06: ACTION[Server]: singleplayer places node default:snowblock at (58,17,71)
+2021-11-15 17:41:06: ACTION[Server]: singleplayer places node default:snowblock at (58,18,71)
+2021-11-15 17:41:08: ACTION[Server]: singleplayer places node default:snowblock at (59,17,71)
+2021-11-15 17:43:00: ACTION[Server]: singleplayer leaves game. List of players: 
+2021-11-15 17:43:01: ACTION[Main]: Server: Shutting down
