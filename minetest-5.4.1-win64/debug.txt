@@ -1217,3 +1217,37 @@
 2021-11-22 17:07:42: ERROR[Server]: Item "orichalcum_lump" not defined
 2021-11-22 17:07:42: ERROR[Server]: Item "orichalcum_lump" not defined
 2021-11-22 17:07:42: ERROR[Server]: Item "orichalcum_lump" not defined
+
+
+-------------
+  Separator
+-------------
+
+2021-11-22 17:11:28: ACTION[Main]: World at [C:\Users\marcl\Documents\Tecnocampus\2n curs 21-22\1 TRI\Programació\Pràctiques\PRac4\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\proba3]
+2021-11-22 17:11:28: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:54645.
+2021-11-22 17:11:30: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 17:11:30: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 17:11:35: ACTION[Server]: singleplayer activates orichalcum_lump
+2021-11-22 17:11:35: ERROR[Server]: Item "orichalcum_lump" not defined
+2021-11-22 17:11:36: ERROR[Server]: Item "orichalcum_lump" not defined
+2021-11-22 17:11:37: ERROR[Server]: Item "orichalcum_lump" not defined
+2021-11-22 17:11:37: ERROR[Server]: Item "orichalcum_lump" not defined
+2021-11-22 17:11:38: ACTION[Server]: singleplayer digs default:dirt_with_grass at (-52,17,-24)
+2021-11-22 17:11:40: ERROR[Server]: Item "orichalcum_lump" not defined
+2021-11-22 17:11:44: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2021-11-22 17:56:41: ACTION[Main]: World at [C:\Users\marcl\Documents\Tecnocampus\2n curs 21-22\1 TRI\Programació\Pràctiques\PRac4\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\proba3]
+2021-11-22 17:56:41: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:54940.
+2021-11-22 17:56:43: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 17:56:43: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 17:57:11: ACTION[Main]: Server: Shutting down
+2021-11-22 17:57:13: ACTION[Main]: World at [C:\Users\marcl\Documents\Tecnocampus\2n curs 21-22\1 TRI\Programació\Pràctiques\PRac4\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\proba3]
+2021-11-22 17:57:13: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:65201.
+2021-11-22 17:57:14: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 17:57:14: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 17:57:20: ACTION[Main]: Server: Shutting down
