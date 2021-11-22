@@ -52,3 +52,324 @@
 2021-11-15 17:41:08: ACTION[Server]: singleplayer places node default:snowblock at (59,17,71)
 2021-11-15 17:43:00: ACTION[Server]: singleplayer leaves game. List of players: 
 2021-11-15 17:43:01: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2021-11-21 22:27:48: [Main]: Automatically selecting world at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-22 09:29:59: ACTION[Main]: World at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-22 09:29:59: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:49809.
+2021-11-22 09:30:01: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 09:30:01: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 09:30:14: ACTION[Server]: singleplayer digs default:snowblock at (55,16,63)
+2021-11-22 09:30:24: ACTION[Server]: singleplayer digs default:dirt_with_snow at (42,16,80)
+2021-11-22 09:35:43: ACTION[Main]: Server: Shutting down
+2021-11-22 09:36:07: ACTION[Main]: [experimental] on_mods_loaded()
+2021-11-22 09:36:07: ACTION[Main]: World at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prueba 2]
+2021-11-22 09:36:07: ACTION[Main]: Server for gameid="devtest" listening on 0.0.0.0:52023.
+2021-11-22 09:36:08: ACTION[Server]: [give_initial_stuff] Giving initial stuff to singleplayer
+2021-11-22 09:36:08: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 09:36:30: ACTION[Server]: singleplayer places node chest_of_everything:chest at (19,19,-41)
+2021-11-22 09:37:22: ACTION[Server]: singleplayer activates testnodes:colorfacedir
+2021-11-22 09:37:23: ACTION[Server]: singleplayer activates testnodes:colorfacedir
+2021-11-22 09:37:23: ACTION[Server]: singleplayer places node testnodes:colorfacedir at (17,18,-43)
+2021-11-22 09:37:25: ACTION[Server]: singleplayer digs testnodes:colorfacedir at (17,18,-43)
+2021-11-22 09:37:27: ACTION[Server]: singleplayer places node testnodes:colorfacedir at (19,18,-45)
+2021-11-22 09:37:27: ACTION[Server]: singleplayer digs testnodes:colorfacedir at (19,18,-45)
+2021-11-22 09:37:28: ACTION[Server]: singleplayer places node testnodes:colorfacedir at (18,18,-45)
+2021-11-22 09:37:29: ACTION[Server]: singleplayer digs testnodes:colorfacedir at (18,18,-45)
+2021-11-22 09:37:32: ACTION[Server]: singleplayer places node testnodes:colorfacedir at (18,18,-44)
+2021-11-22 09:37:33: ACTION[Server]: singleplayer digs testnodes:colorfacedir at (18,18,-44)
+2021-11-22 09:37:34: ACTION[Server]: singleplayer activates testnodes:colorfacedir
+2021-11-22 09:37:38: ACTION[Main]: Server: Shutting down
+2021-11-22 09:38:58: ACTION[Main]: World at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-22 09:38:58: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:63358.
+2021-11-22 09:38:59: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 09:38:59: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 09:39:13: ACTION[Server]: singleplayer activates 
+2021-11-22 09:39:15: ACTION[Server]: singleplayer places node default:dirt at (32,19,91)
+2021-11-22 09:39:15: ACTION[Server]: singleplayer places node default:dirt at (31,19,91)
+2021-11-22 09:39:15: ACTION[Server]: singleplayer places node default:dirt at (31,20,91)
+2021-11-22 09:39:22: ACTION[Main]: Server: Shutting down
+2021-11-22 09:39:26: ACTION[Main]: World at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-22 09:39:26: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:57082.
+2021-11-22 09:39:27: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 09:39:27: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 09:40:04: ACTION[Server]: singleplayer takes mymod:mynode from creative inventory
+2021-11-22 09:40:07: ACTION[Server]: singleplayer places node mymod:mynode at (29,20,94)
+2021-11-22 09:40:07: ACTION[Server]: singleplayer places node mymod:mynode at (29,21,94)
+2021-11-22 09:40:10: ACTION[Server]: singleplayer places node mymod:mynode at (30,20,94)
+2021-11-22 09:40:11: ACTION[Server]: singleplayer places node mymod:mynode at (31,20,94)
+2021-11-22 09:43:44: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2021-11-22 10:14:34: [Main]: Automatically selecting world at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-22 10:14:39: ACTION[Main]: World at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-22 10:14:39: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:53681.
+2021-11-22 10:14:40: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 10:14:40: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 10:14:47: ACTION[Server]: singleplayer places node mymod:mynode at (31,20,95)
+2021-11-22 10:14:48: ACTION[Server]: singleplayer places node mymod:mynode at (30,20,95)
+2021-11-22 10:14:49: ACTION[Server]: singleplayer places node mymod:mynode at (29,20,95)
+2021-11-22 10:14:52: ACTION[Server]: singleplayer places node mymod:mynode at (29,21,95)
+2021-11-22 10:15:15: ACTION[Server]: singleplayer digs mymod:mynode at (29,21,95)
+2021-11-22 10:15:15: ACTION[Server]: singleplayer digs mymod:mynode at (29,20,95)
+2021-11-22 10:15:15: ACTION[Server]: singleplayer digs mymod:mynode at (30,20,95)
+2021-11-22 10:15:17: ACTION[Server]: singleplayer digs mymod:mynode at (31,20,95)
+2021-11-22 10:15:17: ACTION[Server]: singleplayer digs mymod:mynode at (31,20,94)
+2021-11-22 10:15:19: ACTION[Server]: singleplayer digs mymod:mynode at (30,20,94)
+2021-11-22 10:15:20: ACTION[Server]: singleplayer digs mymod:mynode at (29,20,94)
+2021-11-22 10:15:21: ACTION[Server]: singleplayer digs mymod:mynode at (29,21,94)
+2021-11-22 10:15:25: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2021-11-22 10:53:29: [Main]: Automatically selecting world at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-22 10:53:33: ACTION[Main]: World at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-22 10:53:33: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:62251.
+2021-11-22 10:53:34: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 10:53:34: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 10:53:42: ACTION[Server]: singleplayer places node mymod:mynode at (33,19,95)
+2021-11-22 10:53:43: ACTION[Server]: singleplayer places node mymod:mynode at (34,19,94)
+2021-11-22 10:53:44: ACTION[Server]: singleplayer digs mymod:mynode at (34,19,94)
+2021-11-22 10:53:46: ACTION[Server]: singleplayer digs mymod:mynode at (33,19,95)
+2021-11-22 10:53:46: ACTION[Server]: singleplayer digs default:snowblock at (33,18,96)
+2021-11-22 10:53:47: ACTION[Server]: singleplayer places node mymod:mynode at (35,19,95)
+2021-11-22 10:53:47: ACTION[Server]: singleplayer places node mymod:mynode at (35,19,94)
+2021-11-22 10:53:47: ACTION[Server]: singleplayer places node mymod:mynode at (34,19,94)
+2021-11-22 10:53:48: ACTION[Server]: singleplayer places node mymod:mynode at (35,19,93)
+2021-11-22 10:53:48: ACTION[Server]: singleplayer places node mymod:mynode at (35,20,93)
+2021-11-22 10:53:50: ACTION[Server]: singleplayer places node mymod:mynode at (34,19,93)
+2021-11-22 10:53:50: ACTION[Server]: singleplayer places node mymod:mynode at (33,19,93)
+2021-11-22 10:53:50: ACTION[Server]: singleplayer places node mymod:mynode at (34,20,93)
+2021-11-22 10:53:51: ACTION[Server]: singleplayer places node mymod:mynode at (33,20,93)
+2021-11-22 10:53:52: ACTION[Server]: singleplayer digs mymod:mynode at (33,20,93)
+2021-11-22 10:53:52: ACTION[Server]: singleplayer digs mymod:mynode at (33,19,93)
+2021-11-22 10:53:52: ACTION[Server]: singleplayer digs mymod:mynode at (34,19,93)
+2021-11-22 10:53:52: ACTION[Server]: singleplayer digs mymod:mynode at (35,19,93)
+2021-11-22 10:53:53: ACTION[Server]: singleplayer digs mymod:mynode at (34,20,93)
+2021-11-22 10:53:53: ACTION[Server]: singleplayer digs mymod:mynode at (35,19,94)
+2021-11-22 10:53:53: ACTION[Server]: singleplayer digs default:snowblock at (36,18,94)
+2021-11-22 10:53:53: ACTION[Server]: singleplayer digs mymod:mynode at (34,19,94)
+2021-11-22 10:53:54: ACTION[Server]: singleplayer digs mymod:mynode at (35,19,95)
+2021-11-22 10:53:54: ACTION[Server]: singleplayer digs mymod:mynode at (35,20,93)
+2021-11-22 10:53:56: ACTION[Server]: singleplayer digs default:snow at (40,18,90)
+2021-11-22 10:53:56: ACTION[Server]: singleplayer digs default:snow at (39,18,90)
+2021-11-22 10:53:56: ACTION[Server]: singleplayer digs default:dirt_with_snow at (40,17,90)
+2021-11-22 10:53:57: ACTION[Server]: singleplayer digs default:dirt_with_snow at (39,17,91)
+2021-11-22 10:53:57: ACTION[Server]: singleplayer digs default:dirt_with_snow at (39,17,90)
+2021-11-22 10:53:58: ACTION[Server]: singleplayer digs default:snow at (41,17,90)
+2021-11-22 10:53:58: ACTION[Server]: singleplayer digs default:dirt_with_snow at (41,16,90)
+2021-11-22 10:53:58: ACTION[Server]: singleplayer digs default:snowblock at (42,16,90)
+2021-11-22 10:53:58: ACTION[Server]: singleplayer digs default:snowblock at (42,16,89)
+2021-11-22 10:53:59: ACTION[Server]: singleplayer digs default:snowblock at (38,17,91)
+2021-11-22 10:53:59: ACTION[Server]: singleplayer digs default:snowblock at (38,17,90)
+2021-11-22 10:54:00: ACTION[Server]: singleplayer digs default:dirt at (40,16,90)
+2021-11-22 10:54:00: ACTION[Server]: singleplayer digs default:snowblock at (41,16,89)
+2021-11-22 10:54:00: ACTION[Server]: singleplayer digs default:snowblock at (41,15,89)
+2021-11-22 10:54:00: ACTION[Server]: singleplayer digs default:snowblock at (42,15,89)
+2021-11-22 10:54:02: ACTION[Server]: singleplayer digs default:snowblock at (34,18,99)
+2021-11-22 10:54:02: ACTION[Server]: singleplayer digs default:snowblock at (34,18,100)
+2021-11-22 10:54:02: ACTION[Server]: singleplayer digs default:snowblock at (34,18,101)
+2021-11-22 10:54:03: ACTION[Server]: singleplayer digs default:snowblock at (34,18,94)
+2021-11-22 10:54:03: ACTION[Server]: singleplayer digs default:snowblock at (34,18,95)
+2021-11-22 10:54:03: ACTION[Server]: singleplayer digs default:snowblock at (34,18,96)
+2021-11-22 10:54:04: ACTION[Server]: singleplayer digs default:snowblock at (34,17,96)
+2021-11-22 10:54:04: ACTION[Server]: singleplayer digs default:snowblock at (34,17,97)
+2021-11-22 10:54:04: ACTION[Server]: singleplayer digs default:snowblock at (34,17,98)
+2021-11-22 10:54:04: ACTION[Server]: singleplayer digs default:cave_ice at (34,16,98)
+2021-11-22 10:54:04: ACTION[Server]: singleplayer digs default:cave_ice at (34,16,99)
+2021-11-22 10:54:05: ACTION[Server]: singleplayer digs default:cave_ice at (34,15,99)
+2021-11-22 10:54:05: ACTION[Server]: singleplayer digs default:snowblock at (34,15,100)
+2021-11-22 10:54:05: ACTION[Server]: singleplayer digs default:snowblock at (34,15,101)
+2021-11-22 10:54:06: ACTION[Server]: singleplayer digs default:snowblock at (34,16,100)
+2021-11-22 10:54:07: ACTION[Server]: singleplayer digs default:snowblock at (34,18,97)
+2021-11-22 10:54:07: ACTION[Server]: singleplayer digs default:snowblock at (34,17,99)
+2021-11-22 10:54:07: ACTION[Server]: singleplayer digs default:snowblock at (34,16,101)
+2021-11-22 10:54:08: ACTION[Server]: singleplayer digs default:snowblock at (34,18,98)
+2021-11-22 10:54:08: ACTION[Server]: singleplayer digs default:snowblock at (34,17,100)
+2021-11-22 10:54:08: ACTION[Server]: singleplayer digs default:snowblock at (34,17,101)
+2021-11-22 10:54:09: ACTION[Server]: singleplayer digs default:snowblock at (34,17,102)
+2021-11-22 10:54:09: ACTION[Server]: singleplayer digs default:snowblock at (34,18,102)
+2021-11-22 10:54:10: ACTION[Server]: singleplayer digs default:snowblock at (35,17,99)
+2021-11-22 10:54:10: ACTION[Server]: singleplayer digs default:snowblock at (34,17,95)
+2021-11-22 10:54:11: ACTION[Server]: singleplayer digs default:snowblock at (34,16,96)
+2021-11-22 10:54:11: ACTION[Server]: singleplayer digs default:snowblock at (34,16,97)
+2021-11-22 10:54:11: ACTION[Server]: singleplayer digs default:cave_ice at (34,15,98)
+2021-11-22 10:54:12: ACTION[Server]: singleplayer digs default:snowblock at (35,18,97)
+2021-11-22 10:54:12: ACTION[Server]: singleplayer digs default:snowblock at (35,18,98)
+2021-11-22 10:54:13: ACTION[Server]: singleplayer digs default:snowblock at (35,18,99)
+2021-11-22 10:54:13: ACTION[Server]: singleplayer digs default:snowblock at (35,18,100)
+2021-11-22 10:54:13: ACTION[Server]: singleplayer digs default:snowblock at (35,17,100)
+2021-11-22 10:54:13: ACTION[Server]: singleplayer digs default:snowblock at (35,18,101)
+2021-11-22 10:54:14: ACTION[Server]: singleplayer digs default:cave_ice at (35,16,99)
+2021-11-22 10:54:14: ACTION[Server]: singleplayer digs default:snowblock at (35,17,97)
+2021-11-22 10:54:14: ACTION[Server]: singleplayer digs default:snowblock at (35,17,96)
+2021-11-22 10:54:15: ACTION[Server]: singleplayer digs default:snowblock at (35,18,95)
+2021-11-22 10:54:15: ACTION[Server]: singleplayer digs default:snowblock at (35,18,96)
+2021-11-22 10:54:15: ACTION[Server]: singleplayer digs default:snowblock at (35,18,94)
+2021-11-22 10:54:16: ACTION[Server]: singleplayer digs default:snowblock at (35,17,95)
+2021-11-22 10:54:16: ACTION[Server]: singleplayer digs default:snowblock at (36,17,95)
+2021-11-22 10:54:17: ACTION[Server]: singleplayer digs default:snowblock at (36,18,96)
+2021-11-22 10:54:18: ACTION[Server]: singleplayer digs default:snowblock at (36,17,96)
+2021-11-22 10:54:18: ACTION[Server]: singleplayer digs default:snowblock at (36,17,97)
+2021-11-22 10:54:18: ACTION[Server]: singleplayer digs default:snowblock at (37,17,97)
+2021-11-22 10:54:18: ACTION[Server]: singleplayer digs default:snowblock at (36,18,97)
+2021-11-22 10:54:19: ACTION[Server]: singleplayer digs default:snowblock at (36,17,98)
+2021-11-22 10:54:19: ACTION[Server]: singleplayer digs default:snowblock at (36,18,98)
+2021-11-22 10:54:19: ACTION[Server]: singleplayer digs default:snowblock at (36,18,99)
+2021-11-22 10:54:19: ACTION[Server]: singleplayer digs default:snowblock at (36,18,100)
+2021-11-22 10:54:20: ACTION[Server]: singleplayer digs default:snowblock at (37,18,100)
+2021-11-22 10:54:20: ACTION[Server]: singleplayer digs default:snowblock at (36,17,99)
+2021-11-22 10:54:20: ACTION[Server]: singleplayer digs default:cave_ice at (36,16,99)
+2021-11-22 10:54:21: ACTION[Server]: singleplayer digs default:snowblock at (36,17,100)
+2021-11-22 10:54:21: ACTION[Server]: singleplayer places node mymod:mynode at (36,17,100)
+2021-11-22 10:54:22: ACTION[Server]: singleplayer places node mymod:mynode at (34,15,98)
+2021-11-22 10:54:23: ACTION[Server]: singleplayer places node mymod:mynode at (34,15,99)
+2021-11-22 10:54:23: ACTION[Server]: singleplayer places node mymod:mynode at (35,16,99)
+2021-11-22 10:54:23: ACTION[Server]: singleplayer places node mymod:mynode at (35,17,99)
+2021-11-22 10:54:28: ACTION[Server]: singleplayer places node mymod:mynode at (34,16,96)
+2021-11-22 10:54:28: ACTION[Server]: singleplayer places node mymod:mynode at (34,17,96)
+2021-11-22 10:54:28: ACTION[Server]: singleplayer places node mymod:mynode at (36,17,97)
+2021-11-22 10:54:28: ACTION[Server]: singleplayer places node mymod:mynode at (35,17,97)
+2021-11-22 10:54:29: ACTION[Server]: singleplayer places node mymod:mynode at (34,18,96)
+2021-11-22 10:54:31: ACTION[Server]: singleplayer places node mymod:mynode at (34,19,93)
+2021-11-22 10:54:32: ACTION[Server]: singleplayer places node mymod:mynode at (34,18,95)
+2021-11-22 10:54:32: ACTION[Server]: singleplayer digs mymod:mynode at (34,19,93)
+2021-11-22 10:54:33: ACTION[Server]: singleplayer places node mymod:mynode at (34,18,94)
+2021-11-22 10:54:33: ACTION[Server]: singleplayer places node mymod:mynode at (34,19,94)
+2021-11-22 10:54:33: ACTION[Server]: singleplayer places node mymod:mynode at (34,19,93)
+2021-11-22 10:54:34: ACTION[Server]: singleplayer digs mymod:mynode at (34,19,93)
+2021-11-22 10:54:34: ACTION[Server]: singleplayer digs mymod:mynode at (34,19,94)
+2021-11-22 10:54:35: ACTION[Server]: singleplayer digs mymod:mynode at (36,17,97)
+2021-11-22 10:54:35: ACTION[Server]: singleplayer places node mymod:mynode at (35,18,94)
+2021-11-22 10:54:35: ACTION[Server]: singleplayer places node mymod:mynode at (35,19,94)
+2021-11-22 10:54:36: ACTION[Server]: singleplayer places node mymod:mynode at (35,20,94)
+2021-11-22 10:54:36: ACTION[Server]: singleplayer digs mymod:mynode at (35,20,94)
+2021-11-22 10:54:36: ACTION[Server]: singleplayer digs mymod:mynode at (35,19,94)
+2021-11-22 10:54:37: ACTION[Server]: singleplayer places node mymod:mynode at (37,18,94)
+2021-11-22 10:54:37: ACTION[Server]: singleplayer places node mymod:mynode at (37,19,94)
+2021-11-22 10:54:39: ACTION[Server]: singleplayer places node mymod:mynode at (36,18,94)
+2021-11-22 10:54:39: ACTION[Server]: singleplayer places node mymod:mynode at (36,19,94)
+2021-11-22 10:54:41: ACTION[Server]: singleplayer places node mymod:mynode at (36,20,94)
+2021-11-22 10:54:41: ACTION[Server]: singleplayer places node mymod:mynode at (36,21,94)
+2021-11-22 10:54:41: ACTION[Server]: singleplayer places node mymod:mynode at (36,22,94)
+2021-11-22 10:54:42: ACTION[Server]: singleplayer places node mymod:mynode at (36,23,94)
+2021-11-22 10:54:42: ACTION[Server]: singleplayer places node mymod:mynode at (36,24,94)
+2021-11-22 10:54:42: ACTION[Server]: singleplayer places node mymod:mynode at (36,25,94)
+2021-11-22 10:54:43: ACTION[Server]: singleplayer places node mymod:mynode at (36,26,94)
+2021-11-22 10:54:43: ACTION[Server]: singleplayer places node mymod:mynode at (36,27,94)
+2021-11-22 10:54:43: ACTION[Server]: singleplayer places node mymod:mynode at (36,28,94)
+2021-11-22 10:54:43: ACTION[Server]: singleplayer places node mymod:mynode at (36,29,94)
+2021-11-22 10:54:44: ACTION[Server]: singleplayer places node mymod:mynode at (36,30,94)
+2021-11-22 10:54:44: ACTION[Server]: singleplayer places node mymod:mynode at (36,31,94)
+2021-11-22 10:54:44: ACTION[Server]: singleplayer places node mymod:mynode at (36,32,94)
+2021-11-22 10:54:51: ACTION[Server]: singleplayer damaged by 3 hp at (37.106,26.529,92.199)
+2021-11-22 10:54:53: ACTION[Server]: singleplayer places node mymod:mynode at (36,18,92)
+2021-11-22 10:54:53: ACTION[Server]: singleplayer places node mymod:mynode at (36,19,92)
+2021-11-22 10:54:53: ACTION[Server]: singleplayer damaged by 1 hp at (36.09,20.119,92.022)
+2021-11-22 10:54:54: ACTION[Server]: singleplayer places node mymod:mynode at (36,20,92)
+2021-11-22 10:54:55: ACTION[Server]: singleplayer places node mymod:mynode at (36,21,92)
+2021-11-22 10:54:55: ACTION[Server]: singleplayer places node mymod:mynode at (36,22,92)
+2021-11-22 10:54:55: ACTION[Server]: singleplayer places node mymod:mynode at (36,23,92)
+2021-11-22 10:54:55: ACTION[Server]: singleplayer places node mymod:mynode at (36,24,92)
+2021-11-22 10:54:56: ACTION[Server]: singleplayer places node mymod:mynode at (36,25,92)
+2021-11-22 10:54:56: ACTION[Server]: singleplayer places node mymod:mynode at (36,26,92)
+2021-11-22 10:54:56: ACTION[Server]: singleplayer places node mymod:mynode at (36,27,92)
+2021-11-22 10:54:57: ACTION[Server]: singleplayer places node mymod:mynode at (36,28,92)
+2021-11-22 10:55:01: ACTION[Server]: singleplayer places node mymod:mynode at (40,25,91)
+2021-11-22 10:55:01: ACTION[Server]: singleplayer places node mymod:mynode at (40,26,91)
+2021-11-22 10:55:02: ACTION[Server]: singleplayer places node mymod:mynode at (40,27,91)
+2021-11-22 10:55:06: ACTION[Server]: singleplayer digs mymod:mynode at (40,27,91)
+2021-11-22 10:55:06: ACTION[Server]: singleplayer digs mymod:mynode at (40,26,91)
+2021-11-22 10:55:07: ACTION[Server]: singleplayer digs mymod:mynode at (40,25,91)
+2021-11-22 10:55:07: ACTION[Server]: singleplayer digs default:pine_needles at (40,24,91)
+2021-11-22 10:55:08: ACTION[Server]: singleplayer places node mymod:mynode at (40,16,90)
+2021-11-22 10:55:08: ACTION[Server]: singleplayer places node mymod:mynode at (40,17,90)
+2021-11-22 10:55:08: ACTION[Server]: singleplayer places node mymod:mynode at (40,17,89)
+2021-11-22 10:55:09: ACTION[Server]: singleplayer places node mymod:mynode at (40,18,89)
+2021-11-22 10:55:09: ACTION[Server]: singleplayer places node mymod:mynode at (40,18,90)
+2021-11-22 10:55:10: ACTION[Server]: singleplayer places node mymod:mynode at (40,19,90)
+2021-11-22 10:55:10: ACTION[Server]: singleplayer places node mymod:mynode at (40,20,90)
+2021-11-22 10:55:16: ACTION[Server]: singleplayer places node mymod:mynode at (35,20,92)
+2021-11-22 10:55:16: ACTION[Server]: singleplayer places node mymod:mynode at (35,20,91)
+2021-11-22 10:55:16: ACTION[Server]: singleplayer places node mymod:mynode at (34,20,91)
+2021-11-22 10:55:17: ACTION[Server]: singleplayer digs mymod:mynode at (34,20,91)
+2021-11-22 10:55:17: ACTION[Server]: singleplayer digs mymod:mynode at (35,20,91)
+2021-11-22 10:55:17: ACTION[Server]: singleplayer digs mymod:mynode at (35,20,92)
+2021-11-22 10:55:17: ACTION[Server]: singleplayer digs mymod:mynode at (36,20,92)
+2021-11-22 10:55:18: ACTION[Server]: singleplayer digs default:pine_tree at (39,19,93)
+2021-11-22 10:55:18: ACTION[Server]: singleplayer digs mymod:mynode at (36,19,92)
+2021-11-22 10:55:18: ACTION[Server]: singleplayer digs default:pine_tree at (39,18,93)
+2021-11-22 10:55:19: ACTION[Server]: singleplayer digs mymod:mynode at (36,21,92)
+2021-11-22 10:55:19: ACTION[Server]: singleplayer digs mymod:mynode at (36,22,92)
+2021-11-22 10:55:20: ACTION[Server]: singleplayer digs mymod:mynode at (36,23,92)
+2021-11-22 10:55:20: ACTION[Server]: singleplayer digs mymod:mynode at (36,24,92)
+2021-11-22 10:55:20: ACTION[Server]: singleplayer digs mymod:mynode at (36,25,92)
+2021-11-22 10:55:20: ACTION[Server]: singleplayer digs mymod:mynode at (36,26,92)
+2021-11-22 10:55:21: ACTION[Server]: singleplayer digs mymod:mynode at (36,27,92)
+2021-11-22 10:55:21: ACTION[Server]: singleplayer digs mymod:mynode at (36,28,92)
+2021-11-22 10:55:23: ACTION[Server]: singleplayer digs mymod:mynode at (36,19,94)
+2021-11-22 10:55:26: ACTION[Server]: singleplayer digs mymod:mynode at (36,20,94)
+2021-11-22 10:55:26: ACTION[Server]: singleplayer digs mymod:mynode at (37,19,94)
+2021-11-22 10:55:27: ACTION[Server]: singleplayer digs mymod:mynode at (36,21,94)
+2021-11-22 10:55:27: ACTION[Server]: singleplayer digs mymod:mynode at (36,22,94)
+2021-11-22 10:55:28: ACTION[Server]: singleplayer digs mymod:mynode at (36,23,94)
+2021-11-22 10:55:28: ACTION[Server]: singleplayer digs mymod:mynode at (36,24,94)
+2021-11-22 10:55:28: ACTION[Server]: singleplayer digs mymod:mynode at (36,25,94)
+2021-11-22 10:55:28: ACTION[Server]: singleplayer digs mymod:mynode at (36,26,94)
+2021-11-22 10:55:28: ACTION[Server]: singleplayer digs mymod:mynode at (36,27,94)
+2021-11-22 10:55:29: ACTION[Server]: singleplayer digs mymod:mynode at (36,28,94)
+2021-11-22 10:55:29: ACTION[Server]: singleplayer digs mymod:mynode at (36,29,94)
+2021-11-22 10:55:29: ACTION[Server]: singleplayer digs mymod:mynode at (36,30,94)
+2021-11-22 10:55:31: ACTION[Server]: singleplayer digs mymod:mynode at (36,31,94)
+2021-11-22 10:55:34: ACTION[Server]: singleplayer places node mymod:mynode at (35,19,94)
+2021-11-22 10:55:35: ACTION[Server]: singleplayer places node mymod:mynode at (35,20,94)
+2021-11-22 10:55:37: ACTION[Server]: singleplayer digs mymod:mynode at (36,32,94)
+2021-11-22 10:55:38: ACTION[Server]: singleplayer digs mymod:mynode at (35,20,94)
+2021-11-22 10:55:38: ACTION[Server]: singleplayer digs mymod:mynode at (35,19,94)
+2021-11-22 10:55:39: ACTION[Server]: singleplayer digs mymod:mynode at (35,18,94)
+2021-11-22 10:55:40: ACTION[Server]: singleplayer digs mymod:mynode at (36,18,94)
+2021-11-22 10:55:40: ACTION[Server]: singleplayer digs mymod:mynode at (37,18,94)
+2021-11-22 10:55:42: ACTION[Server]: singleplayer digs mymod:mynode at (34,18,95)
+2021-11-22 10:55:42: ACTION[Server]: singleplayer digs mymod:mynode at (34,18,96)
+2021-11-22 10:55:42: ACTION[Server]: singleplayer digs mymod:mynode at (34,17,96)
+2021-11-22 10:55:42: ACTION[Server]: singleplayer digs default:cave_ice at (33,16,98)
+2021-11-22 10:55:43: ACTION[Server]: singleplayer digs mymod:mynode at (35,17,97)
+2021-11-22 10:55:43: ACTION[Server]: singleplayer digs default:snowblock at (35,16,97)
+2021-11-22 10:55:44: ACTION[Server]: singleplayer digs mymod:mynode at (34,15,98)
+2021-11-22 10:55:44: ACTION[Server]: singleplayer digs mymod:mynode at (34,16,96)
+2021-11-22 10:55:44: ACTION[Server]: singleplayer digs default:cave_ice at (34,15,97)
+2021-11-22 10:55:45: ACTION[Server]: singleplayer digs mymod:mynode at (34,18,94)
+2021-11-22 10:55:48: ACTION[Server]: singleplayer digs mymod:mynode at (36,18,92)
+2021-11-22 10:55:48: ACTION[Server]: singleplayer digs mymod:mynode at (40,18,90)
+2021-11-22 10:55:49: ACTION[Server]: singleplayer digs mymod:mynode at (40,18,89)
+2021-11-22 10:55:49: ACTION[Server]: singleplayer digs default:snowblock at (43,16,88)
+2021-11-22 10:55:50: ACTION[Server]: singleplayer digs mymod:mynode at (40,19,90)
+2021-11-22 10:55:50: ACTION[Server]: singleplayer digs mymod:mynode at (40,20,90)
+2021-11-22 10:55:51: ACTION[Server]: singleplayer digs mymod:mynode at (40,17,90)
+2021-11-22 10:55:51: ACTION[Server]: singleplayer digs mymod:mynode at (40,17,89)
+2021-11-22 10:55:52: ACTION[Server]: singleplayer digs mymod:mynode at (40,16,90)
+2021-11-22 10:56:05: ACTION[Server]: singleplayer takes mymod:myitem from creative inventory
+2021-11-22 10:56:07: ACTION[Server]: singleplayer places node mymod:mynode at (30,19,83)
+2021-11-22 10:56:12: ACTION[Server]: singleplayer digs mymod:mynode at (30,19,83)
+2021-11-22 10:56:12: ACTION[Server]: singleplayer digs default:snowblock at (29,18,82)
+2021-11-22 10:57:00: ACTION[Server]: singleplayer takes mymod:myitem from creative inventory
+2021-11-22 10:57:02: ACTION[Server]: singleplayer takes mymod:myitem from creative inventory
+2021-11-22 10:57:04: ACTION[Server]: singleplayer takes mymod:myitem from creative inventory
+2021-11-22 10:57:05: ACTION[Server]: singleplayer takes mymod:myitem from creative inventory
+2021-11-22 11:06:18: ACTION[Main]: Server: Shutting down
+2021-11-22 11:07:37: ACTION[Main]: World at [C:\Users\bigth\Documents\Universitat\2on\T1\Programacio\Practiques\Prac3\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\prov1]
+2021-11-22 11:07:37: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:63194.
+2021-11-22 11:07:40: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 11:07:40: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 11:08:07: ACTION[Server]: player singleplayer crafts mymod:mycraft
