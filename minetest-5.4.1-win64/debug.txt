@@ -1251,3 +1251,29 @@
 2021-11-22 17:57:14: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
 2021-11-22 17:57:14: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
 2021-11-22 17:57:20: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2021-11-22 18:01:57: ACTION[Main]: World at [C:\Users\marcl\Documents\Tecnocampus\2n curs 21-22\1 TRI\Programació\Pràctiques\PRac4\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\proba3]
+2021-11-22 18:01:57: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:64658.
+2021-11-22 18:01:58: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 18:01:58: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 18:02:35: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2021-11-22 18:06:24: ACTION[Main]: World at [C:\Users\marcl\Documents\Tecnocampus\2n curs 21-22\1 TRI\Programació\Pràctiques\PRac4\ModdingMinetest\minetest-5.4.1-win64\bin\..\worlds\proba3]
+2021-11-22 18:06:24: ACTION[Main]: Server for gameid="minetest" listening on 0.0.0.0:49566.
+2021-11-22 18:06:25: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2021-11-22 18:06:25: WARNING[Main]: Irrlicht: Could not open file of texture: character.png
+2021-11-22 18:06:33: ACTION[Server]: singleplayer takes default:stick from creative inventory
+2021-11-22 18:06:46: ACTION[Server]: singleplayer takes mymod:orichalcum_lump from creative inventory
+2021-11-22 18:06:48: ACTION[Server]: singleplayer takes mymod:orichalcum_lump from creative inventory
+2021-11-22 18:07:08: ACTION[Server]: player singleplayer crafts mymod:pick_orichalcum
+2021-11-22 18:07:29: ACTION[Main]: Server: Shutting down

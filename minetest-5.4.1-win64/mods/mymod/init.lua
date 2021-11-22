@@ -45,8 +45,34 @@ minetest.register_ore({
 		},
 	})
 minetest.register_tool("mymod:pick_orichalcum", {
-	description = "PicodeOrichalcum",
+	description = "PicoDeOrichalcum",
 	inventory_image = "mymod_pick_orichalcum.png",
+	tool_capabilities = {
+		full_punch_interval = 1.5,
+		max_drop_level = 1,
+		groupcaps = {
+			crumbly = {
+				maxlevel = 2,
+				uses = 20,
+				times = { [1]=1.60, [2]=1.20, [3]=0.80 }
+			},
+		},
+		damage_groups = {fleshy=2},
+	},
+})
+
+minetest.register_craft({
+    output = "mymod:pick_orichalcum",
+	recipe = {
+		{"","mymod:orichalcum_lump" },
+		{"","mymod:orichalcum_lump"},
+		{"","default:stick"}
+	}
+})
+
+minetest.register_tool("mymod:axe_orichalcum", {
+	description = "HachaDeOrichalcum",
+	inventory_image = "mymod_axe_orichalcum.png",
 	tool_capabilities = {
 		full_punch_interval = 1.5,
 		max_drop_level = 1,
